@@ -1,7 +1,36 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0_2_RnCO)
 # Programação I
 
-Template para a disciplina de Programação I do [curso de Engenharia de Telecomunicações](https://wiki.sj.ifsc.edu.br/index.php/Curso_de_Engenharia_de_Telecomunica%C3%A7%C3%B5es) do Instituto Federal de Santa Catarina, Campus São José.
+Gerenciador de Receitas em C
+
+Projeto desenvolvido por Sofia Ferreira Pereira para a disciplina de Programação I do curso de Engenharia de Telecomunicações - IFSC.
+
+## Funcionalidades
+
+- Adicionar nova receita
+- Listar todas as receitas
+- Buscar receita por nome
+- Editar receita
+- Remover receita
+- Salvar e carregar receitas de um arquivo `.txt`
+
+## Conceitos aplicados
+
+- Ponteiros
+- Estruturas e arrays
+- Funções
+- Manipulação de arquivos em C
+- Fluxos de decisão e laços de repetição
+- Interface via terminal
+- Entrada e saída restritas à função `main()`
+
+## Estrutura dos dados
+
+Cada receita contém:
+- Nome
+- Ingredientes
+- Modo de preparo
+- Quantidade de porções
 
 ## Comandos do terminal
 
@@ -22,8 +51,6 @@ Para compilar e executar um arquivo em C no terminal, use os seguintes comandos:
 gcc <arquivo>.c -o <arquivo>
 ./<arquivo>
 ```
-
-*Obs*: se a biblioteca `math.h` for usada, adicione o parâmetro `-lm` no final do comando.
 
 ## Teclas de atalho
 
