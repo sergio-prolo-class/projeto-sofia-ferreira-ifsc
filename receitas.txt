@@ -1,0 +1,16 @@
+pos 1
+teste
+teste
+4
+testando receita pos1
+teste
+teste
+3
+bolo chocolate
+ovo, trigo, fermento, chocolate
+mexa tudo e coloque para assar
+10
+churrasco
+carne, carvão, churrasqueira
+coloque para assar
+2
